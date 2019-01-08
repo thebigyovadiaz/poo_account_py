@@ -1,2 +1,7 @@
-# poo_account_py
-Programa que simula la automatización en un banco con la creación de cuentas, consulta de las mismas, deposito, retiro y ver el saldo de cada cuenta. Se utilizó la programación orientada a objeto con herencia, excepciones y uso de archivos para guardar las cuentas creadas en el disco duro.
+# Instalación - Ejecución
+- Verificar que se tenga python 3 intalado, sino realizar la instalación respectiva.
+- Hacer el clonado del proyecto
+- Posicionarse en la carpeta del proyecto
+- Ejecutar `python3 main.py` en la terminal y seguir los pasos del programa
+- El archivo txt del guardado de las cuentas se genera en la carpeta raiz del proyecto
+
